@@ -1,0 +1,14 @@
+1 John m 18 3.5
+2 William m 22 2.7
+3 Susan f 21 1.6
+4 Jack m 19 3.9
+5 Jennifer f 18 3.7
+6 Sophia f 21 3.2
+7 Emma f 19 2.5
+8 Olivia f 26 1.8
+9 Ava f 23 3.3
+10 Tom m 22 2.9
+11 Mia f 18 3.6
+12 Isabella f 29 3.1
+13 Zoe f 17 2.9
+14 Lily f 20 3.7
